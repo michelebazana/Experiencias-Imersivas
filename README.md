@@ -23,8 +23,8 @@
 - **Vídeo:** "The Future of VR and AR" (YouTube, 12 min) - [https://www.youtube.com/watch?v=f9x_0lCgLE4](https://www.youtube.com/watch?v=f9x_0lCgLE4)
 
 **Sexta-feira: Encontro com o Especialista**
-> Objetivo: Discutir os conceitos abordados durante a semana e orientar o desenvolvimento do mini projeto.
-- **Atividade:** Mini projeto - Criar um esboço de uma aplicação imersiva (RV ou RA) para uma área específica (educação, saúde, entretenimento).
+> Objetivo: Discutir os conceitos abordados durante a semana e apresentação de atividade.
+- **Atividade:** Criar um esboço de uma aplicação imersiva (RV ou RA) para uma área específica (educação, saúde, entretenimento).
 
 ## Semana 2: Introdução às Ferramentas de Desenvolvimento
 
