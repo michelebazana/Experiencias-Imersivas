@@ -49,8 +49,8 @@
 - **Vídeo:** "Unity vs Unreal: Detailed Comparison" (YouTube, 18 min) - [https://www.youtube.com/watch?v=g-FpDQ8Eqw8](https://www.youtube.com/watch?v=g-FpDQ8Eqw8)
 
 **Sexta-feira: Encontro com o Especialista**
-> Objetivo: Ajudar os estudantes a entenderem as diferenças entre Unity e Unreal e escolher uma ferramenta para o mini projeto.
-- **Atividade:** Mini projeto - Criar uma cena básica usando Unity ou Unreal Engine.
+> Objetivo: Ajudar os estudantes a entenderem as diferenças entre Unity e Unreal e escolher uma ferramenta para a atividade.
+- **Atividade:** Criar uma cena básica usando Unity ou Unreal Engine.
 
 ## Semana 3: Programação e Desenvolvimento para RV
 
