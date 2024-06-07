@@ -76,7 +76,7 @@
 
 **Sexta-feira: Encontro com o Especialista**
 > Objetivo: Auxiliar os estudantes a implementarem scripts básicos em seus projetos e a entenderem as boas práticas.
-- **Atividade:** Mini projeto - Implementar um script simples que interaja com o ambiente em RV.
+- **Atividade:** Implementar um script simples que interaja com o ambiente em RV.
 
 ## Semana 4: Realidade Aumentada e Aplicações Práticas
 
@@ -96,13 +96,13 @@
 - **Vídeo:** "Creating an AR Experience in Unity" (YouTube, 20 min) - [https://www.youtube.com/watch?v=m-0bUWK6E4g](https://www.youtube.com/watch?v=m-0bUWK6E4g)
 
 **Quinta-feira: Aplicações Práticas de AR**
-> Objetivo: Explorar casos de uso reais de AR em diversas indústrias, ilustrando o impacto prático e os benefícios dessa tecnologia.
+> Objetivo: Explorar casos de uso reais de AR em diversas áreas, ilustrando o impacto prático e os benefícios dessa tecnologia. 
 - **Leitura:** "Case Studies in Augmented Reality" (Harvard Business Review) - [https://hbr.org/2017/11/a-manager-s-guide-to-augmented-reality](https://hbr.org/2017/11/a-manager-s-guide-to-augmented-reality) (Tempo estimado de leitura: 25 minutos)
 - **Vídeo:** "Top 5 AR Applications" (YouTube, 12 min) - [https://www.youtube.com/watch?v=cttmRmB7ZMg](https://www.youtube.com/watch?v=cttmRmB7ZMg)
 
 **Sexta-feira: Encontro com o Especialista**
 > Objetivo: Ajudar os estudantes a entenderem como desenvolver e aplicar AR em projetos reais.
-- **Atividade:** Mini projeto - Criar uma aplicação AR simples para um caso de uso específico (educação, marketing, etc.).
+- **Atividade:** Criar uma aplicação AR simples para um caso de uso específico (educação, marketing, etc.).
 
 ## Semana 5: Desenvolvimento de um Projeto Prático
 
