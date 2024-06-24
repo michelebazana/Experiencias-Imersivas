@@ -1,3 +1,17 @@
+# Módulo 12a - Balança Técnico
+## Semana 1: 
+**Segunda-feira:**
+**Terça-feira:**
+**Quarta-feira:**
+**Quinta-feira:**
+**Sexta-feira:**
+
+## Semana 2: 
+## Semana 3: 
+## Semana 4: 
+## Semana 5: 
+
+
 # Módulo 12b - Experiências Imersivas
 
 ## Semana 1: Introdução às Experiências Imersivas
