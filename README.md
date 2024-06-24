@@ -1,17 +1,89 @@
 # Módulo 12a - Balança Técnico
+
 ## Semana 1: 
+
 **Segunda-feira:**
-> Objetivo: 
+> Objetivo:
+
 **Terça-feira:**
+> Objetivo:
+
 **Quarta-feira:**
+> Objetivo:
+
 **Quinta-feira:**
+> Objetivo:
+
 **Sexta-feira:**
+> Objetivo:
 
 ## Semana 2: 
+
+**Segunda-feira:**
+> Objetivo:
+
+**Terça-feira:**
+> Objetivo:
+
+**Quarta-feira:**
+> Objetivo:
+
+**Quinta-feira:**
+> Objetivo:
+
+**Sexta-feira:**
+> Objetivo:
+
 ## Semana 3: 
+
+**Segunda-feira:**
+> Objetivo:
+
+**Terça-feira:**
+> Objetivo:
+
+**Quarta-feira:**
+> Objetivo:
+
+**Quinta-feira:**
+> Objetivo:
+
+**Sexta-feira:**
+> Objetivo:
+
 ## Semana 4: 
+
+**Segunda-feira:**
+> Objetivo:
+
+**Terça-feira:**
+> Objetivo:
+
+**Quarta-feira:**
+> Objetivo:
+
+**Quinta-feira:**
+> Objetivo:
+
+**Sexta-feira:**
+> Objetivo:
+
 ## Semana 5: 
 
+**Segunda-feira:**
+> Objetivo:
+
+**Terça-feira:**
+> Objetivo:
+
+**Quarta-feira:**
+> Objetivo:
+
+**Quinta-feira:**
+> Objetivo:
+
+**Sexta-feira:**
+> Objetivo:
 
 # Módulo 12b - Experiências Imersivas
 
