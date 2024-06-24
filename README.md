@@ -1,6 +1,7 @@
 # Módulo 12a - Balança Técnico
 ## Semana 1: 
 **Segunda-feira:**
+> Objetivo: 
 **Terça-feira:**
 **Quarta-feira:**
 **Quinta-feira:**
