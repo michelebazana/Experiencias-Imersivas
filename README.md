@@ -96,18 +96,18 @@
 
 **Terça-feira: Tipos de Experiências Imersivas**
 > Objetivo: Diferenciar entre realidade virtual (RV) e realidade aumentada (RA), destacando suas características e aplicações.
-- **Leitura:** Capítulo 1 do livro "Virtual Reality" por Samuel Greengard - [https://www.amazon.com/Virtual-Reality-Samuel-Greengard/dp/0262537527](https://www.amazon.com/Virtual-Reality-Samuel-Greengard/dp/0262537527) (Tempo estimado de leitura: 40 minutos)
-- **Vídeo:** "Augmented vs Virtual Reality: What's the Difference?" (YouTube, 15 min) - [https://www.youtube.com/watch?v=PeMlggyqzYE](https://www.youtube.com/watch?v=PeMlggyqzYE)
+- **Leitura:** 
+- **Vídeo:** 
 
 **Quarta-feira: Aplicações das Experiências Imersivas**
 > Objetivo: Explorar as diversas aplicações de RV e RA em diferentes indústrias, ilustrando seu impacto e potencial.
-- **Leitura:** "Applications of Virtual and Augmented Reality in Various Fields" (IEEE) - [https://ieeexplore.ieee.org/document/8086348](https://ieeexplore.ieee.org/document/8086348) (Tempo estimado de leitura: 35 minutos)
-- **Vídeo:** "Top 5 Uses of Virtual Reality" (YouTube, 10 min) - [https://www.youtube.com/watch?v=LF7Az-37B1E](https://www.youtube.com/watch?v=LF7Az-37B1E)
+- **Leitura:** 
+- **Vídeo:** 
 
 **Quinta-feira: Desafios e Futuro das Experiências Imersivas**
 > Objetivo: Discutir os desafios atuais e futuros das tecnologias imersivas, identificando oportunidades de desenvolvimento e inovação.
-- **Leitura:** "The Future of Immersive Technology: Opportunities and Challenges" (MIT Technology Review) - [https://www.technologyreview.com/2019/04/17/239759/the-future-of-immersive-technology/](https://www.technologyreview.com/2019/04/17/239759/the-future-of-immersive-technology/) (Tempo estimado de leitura: 25 minutos)
-- **Vídeo:** "The Future of VR and AR" (YouTube, 12 min) - [https://www.youtube.com/watch?v=f9x_0lCgLE4](https://www.youtube.com/watch?v=f9x_0lCgLE4)
+- **Leitura:** 
+- **Vídeo:** 
 
 **Sexta-feira: Encontro com o Especialista**
 > Objetivo: Discutir os conceitos abordados durante a semana e apresentação de atividade.
