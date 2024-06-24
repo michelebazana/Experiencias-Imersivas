@@ -195,23 +195,23 @@
 
 **Segunda-feira: Definindo o Escopo do Projeto**
 > Objetivo: Ensinar os estudantes a definirem claramente o escopo de seus projetos, estabelecendo objetivos e limites claros.
-- **Leitura:** "How to Define Your Project Scope" (Project Management Journal) - [https://www.pmi.org/learning/library/define-project-scope-6574](https://www.pmi.org/learning/library/define-project-scope-6574) (Tempo estimado de leitura: 30 minutos)
-- **Vídeo:** "Project Scope Management" (YouTube, 15 min) - [https://www.youtube.com/watch?v=Hb6dRo3wSlc](https://www.youtube.com/watch?v=Hb6dRo3wSlc)
+- **Leitura:** 
+- **Vídeo:** 
 
 **Terça-feira: Planejamento e Design do Projeto**
 > Objetivo: Introduzir técnicas de planejamento e design thinking, ajudando os estudantes a organizarem e estruturarem seus projetos.
-- **Leitura:** "The Importance of Planning in Project Development" (Medium) - [https://medium.com/project-development/planning-in-project-development-7b6eebfd47](https://medium.com/project-development/planning-in-project-development-7b6eebfd47) (Tempo estimado de leitura: 30 minutos)
-- **Vídeo:** "Design Thinking for Project Development" (YouTube, 18 min) - [https://www.youtube.com/watch?v=a7sEoEvT8l8](https://www.youtube.com/watch?v=a7sEoEvT8l8)
+- **Leitura:** 
+- **Vídeo:** 
 
 **Quarta-feira: Desenvolvimento e Implementação**
 > Objetivo: Orientar os estudantes no desenvolvimento e implementação de seus projetos, aplicando as melhores práticas aprendidas.
-- **Leitura:** "Best Practices for Project Development" (IEEE) - [https://ieeexplore.ieee.org/document/8534444](https://ieeexplore.ieee.org/document/8534444) (Tempo estimado de leitura: 30 minutos)
-- **Vídeo:** "From Concept to Implementation" (YouTube, 20 min) - [https://www.youtube.com/watch?v=pHiNqqRkMcI](https://www.youtube.com/watch?v=pHiNqqRkMcI)
+- **Leitura:** 
+- **Vídeo:** 
 
 **Quinta-feira: Testes e Ajustes Finais**
 > Objetivo: Ensinar os estudantes a realizarem testes e ajustes finais em seus projetos, garantindo qualidade e funcionalidade.
-- **Leitura:** "Testing and Debugging in AR/VR Development" (Developer Journal) - [https://developerjournal.org/testing-and-debugging-in-ar-vr/](https://developerjournal.org/testing-and-debugging-in-ar-vr/) (Tempo estimado de leitura: 25 minutos)
-- **Vídeo:** "Final Steps in Project Development" (YouTube, 15 min) - [https://www.youtube.com/watch?v=wB_WZhfiDoY](https://www.youtube.com/watch?v=wB_WZhfiDoY)
+- **Leitura:** 
+- **Vídeo:** 
 
 **Sexta-feira: Encontro com o Especialista**
 > Objetivo: Avaliar o progresso dos projetos e oferecer feedback final. 
