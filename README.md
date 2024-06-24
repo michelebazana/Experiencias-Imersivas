@@ -117,8 +117,8 @@
 
 **Segunda-feira: Overview das Ferramentas de Desenvolvimento para Experiências Imersivas**
 > Objetivo: Proporcionar uma visão geral das principais ferramentas de desenvolvimento utilizadas em RV e RA, destacando suas funcionalidades e usos.
-- **Leitura:** "Top Tools for Developing VR and AR Applications" (TechCrunch) - [https://techcrunch.com/2020/06/17/the-top-tools-for-developing-vr-and-ar-applications/](https://techcrunch.com/2020/06/17/the-top-tools-for-developing-vr-and-ar-applications/) (Tempo estimado de leitura: 30 minutos)
-- **Vídeo:** "Introduction to Unity and Unreal Engine" (YouTube, 15 min) - [https://www.youtube.com/watch?v=9USr0Qk8TwA](https://www.youtube.com/watch?v=9USr0Qk8TwA)
+- **Leitura:** 
+- **Vídeo:** 
 
 **Terça-feira: Unity para Desenvolvimento de Experiências Imersivas**
 > Objetivo: Introduzir a plataforma Unity e seus recursos básicos, permitindo que os estudantes comecem a desenvolver experiências imersivas.
@@ -128,12 +128,12 @@
 **Quarta-feira: Unreal Engine para Desenvolvimento de Experiências Imersivas**
 > Objetivo: Apresentar a plataforma Unreal Engine e seus recursos básicos, capacitando os estudantes a criar cenas imersivas.
 - **Leitura:** "Unreal Engine Quick Start Guide" (Unreal Engine Documentation) - [https://docs.unrealengine.com/en-US/Basics/QuickStart/index.html](https://docs.unrealengine.com/en-US/Basics/QuickStart/index.html) (Tempo estimado de leitura: 35 minutos)
-- **Vídeo:** "Introduction to Unreal Engine" (YouTube, 20 min) - [https://www.youtube.com/watch?v=1tobp7IRf0I](https://www.youtube.com/watch?v=1tobp7IRf0I)
+- **Vídeo:** 
 
 **Quinta-feira: Comparação de Ferramentas de Desenvolvimento**
 > Objetivo: Comparar Unity e Unreal Engine, destacando suas vantagens e desvantagens para ajudar os estudantes a escolherem a ferramenta mais adequada para seus projetos.
-- **Leitura:** "Unity vs Unreal: Which Engine Should You Choose?" (GameDev.net) - [https://www.gamedev.net/articles/programming/general-and-gameplay-programming/unity-vs-unreal-which-engine-should-you-choose-r4828/](https://www.gamedev.net/articles/programming/general-and-gameplay-programming/unity-vs-unreal-which-engine-should-you-choose-r4828/) (Tempo estimado de leitura: 30 minutos)
-- **Vídeo:** "Unity vs Unreal: Detailed Comparison" (YouTube, 18 min) - [https://www.youtube.com/watch?v=g-FpDQ8Eqw8](https://www.youtube.com/watch?v=g-FpDQ8Eqw8)
+- **Leitura:** 
+- **Vídeo:** 
 
 **Sexta-feira: Encontro com o Especialista**
 > Objetivo: Ajudar os estudantes a entenderem as diferenças entre Unity e Unreal e escolher uma ferramenta para a atividade.
@@ -143,8 +143,8 @@
 
 **Segunda-feira: Fundamentos da Programação para RV**
 > Objetivo: Introduzir os conceitos básicos de programação aplicados ao desenvolvimento de experiências em realidade virtual.
-- **Leitura:** "Introduction to VR Programming" (Medium) - [https://medium.com/@nripesh/introduction-to-vr-programming-456e2a6436a](https://medium.com/@nripesh/introduction-to-vr-programming-456e2a6436a) (Tempo estimado de leitura: 30 minutos)
-- **Vídeo:** "Basic VR Programming Concepts" (YouTube, 15 min) - [https://www.youtube.com/watch?v=v9XiZq4-0s0](https://www.youtube.com/watch?v=v9XiZq4-0s0)
+- **Leitura:** 
+- **Vídeo:** 
 
 **Terça-feira: Scripting em Unity para RV**
 > Objetivo: Ensinar os fundamentos do scripting em Unity utilizando C#, proporcionando aos estudantes as habilidades básicas para criar interações em RV.
@@ -154,12 +154,12 @@
 **Quarta-feira: Scripting em Unreal Engine para RV**
 > Objetivo: Introduzir o uso do Blueprints no Unreal Engine para criar scripts visuais, permitindo aos estudantes desenvolver interações em RV sem a necessidade de codificação extensiva.
 - **Leitura:** "Blueprints Visual Scripting" (Unreal Engine Documentation) - [https://docs.unrealengine.com/en-US/Engine/Blueprints/index.html](https://docs.unrealengine.com/en-US/Engine/Blueprints/index.html) (Tempo estimado de leitura: 30 minutos)
-- **Vídeo:** "Blueprints for VR in Unreal Engine" (YouTube, 20 min) - [https://www.youtube.com/watch?v=mJ3rP6Gz7kY](https://www.youtube.com/watch?v=mJ3rP6Gz7kY)
+- **Vídeo:** 
 
 **Quinta-feira: Boas Práticas de Desenvolvimento para RV**
 > Objetivo: Apresentar as melhores práticas de desenvolvimento para RV, garantindo a criação de experiências imersivas de alta qualidade.
-- **Leitura:** "Best Practices for VR Development" (Oculus Developer) - [https://developer.oculus.com/blog/best-practices/](https://developer.oculus.com/blog/best-practices/) (Tempo estimado de leitura: 25 minutos)
-- **Vídeo:** "Top 10 VR Development Tips" (YouTube, 12 min) - [https://www.youtube.com/watch?v=IK2ETL9kRYI](https://www.youtube.com/watch?v=IK2ETL9kRYI)
+- **Leitura:** 
+- **Vídeo:** 
 
 **Sexta-feira: Encontro com o Especialista**
 > Objetivo: Auxiliar os estudantes a implementarem scripts básicos em seus projetos e a entenderem as boas práticas.
