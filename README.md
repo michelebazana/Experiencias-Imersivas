@@ -169,23 +169,23 @@
 
 **Segunda-feira: Fundamentos da Realidade Aumentada**
 > Objetivo: Introduzir os conceitos básicos e a teoria por trás da realidade aumentada, diferenciando-a de outras tecnologias imersivas.
-- **Leitura:** "Understanding Augmented Reality" (AR Journal) - [https://arjournal.org/understanding-augmented-reality/](https://arjournal.org/understanding-augmented-reality/) (Tempo estimado de leitura: 30 minutos)
-- **Vídeo:** "Introduction to Augmented Reality" (YouTube, 15 min) - [https://www.youtube.com/watch?v=wE4JilK_0lA](https://www.youtube.com/watch?v=wE4JilK_0lA)
+- **Leitura:** 
+- **Vídeo:** 
 
 **Terça-feira: Ferramentas para Desenvolvimento de AR**
 > Objetivo: Apresentar as principais ferramentas para desenvolvimento de AR, destacando suas capacidades e diferenças.
 - **Leitura:** "Getting Started with ARKit and ARCore" (Official Documentation) - [https://developers.google.com/ar/develop](https://developers.google.com/ar/develop) (Tempo estimado de leitura: 35 minutos)
-- **Vídeo:** "ARKit vs ARCore: What You Need to Know" (YouTube, 15 min) - [https://www.youtube.com/watch?v=nUih5C5rOrA](https://www.youtube.com/watch?v=nUih5C5rOrA)
+- **Vídeo:** 
 
 **Quarta-feira: Criação de Aplicações AR com Unity**
 > Objetivo: Ensinar como criar uma aplicação básica de AR utilizando Unity, capacitando os estudantes a desenvolverem suas próprias experiências aumentadas.
 - **Leitura:** "Building AR Applications with Unity" (Unity Documentation) - [https://learn.unity.com/project/introduction-to-augmented-reality-and-ar-foundation](https://learn.unity.com/project/introduction-to-augmented-reality-and-ar-foundation) (Tempo estimado de leitura: 35 minutos)
-- **Vídeo:** "Creating an AR Experience in Unity" (YouTube, 20 min) - [https://www.youtube.com/watch?v=m-0bUWK6E4g](https://www.youtube.com/watch?v=m-0bUWK6E4g)
+- **Vídeo:** 
 
 **Quinta-feira: Aplicações Práticas de AR**
 > Objetivo: Explorar casos de uso reais de AR em diversas áreas, ilustrando o impacto prático e os benefícios dessa tecnologia. 
-- **Leitura:** "Case Studies in Augmented Reality" (Harvard Business Review) - [https://hbr.org/2017/11/a-manager-s-guide-to-augmented-reality](https://hbr.org/2017/11/a-manager-s-guide-to-augmented-reality) (Tempo estimado de leitura: 25 minutos)
-- **Vídeo:** "Top 5 AR Applications" (YouTube, 12 min) - [https://www.youtube.com/watch?v=cttmRmB7ZMg](https://www.youtube.com/watch?v=cttmRmB7ZMg)
+- **Leitura:** 
+- **Vídeo:** 
 
 **Sexta-feira: Encontro com o Especialista**
 > Objetivo: Ajudar os estudantes a entenderem como desenvolver e aplicar AR em projetos reais.
