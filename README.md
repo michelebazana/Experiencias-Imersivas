@@ -4,7 +4,7 @@
 
 **Segunda-feira: Conceitos e Histórico das Experiências Imersivas**
 > Objetivo: Introduzir aos estudantes os conceitos fundamentais e ao histórico das tecnologias imersivas, fornecendo uma visão geral de sua evolução e importância.
-- ok - **Leitura:** "The History and Evolution of Virtual Reality" (Journal of Virtual Reality) - [https://www.vrs.org.uk/virtual-reality/history.html](https://www.vrs.org.uk/virtual-reality/history.html) (Tempo estimado de leitura: 30 minutos)
+- **Leitura:** "The History and Evolution of Virtual Reality" (Journal of Virtual Reality) - [https://www.vrs.org.uk/virtual-reality/history.html](https://www.vrs.org.uk/virtual-reality/history.html) (Tempo estimado de leitura: 30 minutos)
 - **Vídeo:** 
 
 **Terça-feira: Tipos de Experiências Imersivas**
