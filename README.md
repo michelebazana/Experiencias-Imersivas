@@ -1,4 +1,4 @@
-# Experiências Imersivas
+# Módulo 12b - Experiências Imersivas
 
 ## Semana 1: Introdução às Experiências Imersivas
 
