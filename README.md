@@ -1,4 +1,4 @@
-# Módulo 12a - Balança Técnico
+# Módulo 12a - Balanço Técnico
 
 ## Semana 1: 
 
@@ -91,7 +91,7 @@
 
 **Segunda-feira: Conceitos e Histórico das Experiências Imersivas**
 > Objetivo: Introduzir aos estudantes os conceitos fundamentais e ao histórico das tecnologias imersivas, fornecendo uma visão geral de sua evolução e importância.
-- **Leitura:** "The History and Evolution of Virtual Reality" (Journal of Virtual Reality) - [https://www.vrs.org.uk/virtual-reality/history.html](https://www.vrs.org.uk/virtual-reality/history.html) (Tempo estimado de leitura: 30 minutos)
+- **Leitura:** "History Of Virtual Reality" - [https://www.vrs.org.uk/virtual-reality/history.html](https://www.vrs.org.uk/virtual-reality/history.html) (Tempo estimado de leitura: 30 minutos)
 - **Vídeo:** 
 
 **Terça-feira: Tipos de Experiências Imersivas**
@@ -123,7 +123,7 @@
 **Terça-feira: Unity para Desenvolvimento de Experiências Imersivas**
 > Objetivo: Introduzir a plataforma Unity e seus recursos básicos, permitindo que os estudantes comecem a desenvolver experiências imersivas.
 - **Leitura:** "Unity for Beginners" (Unity Official Documentation) - [https://learn.unity.com/project/beginner-scripting](https://learn.unity.com/project/beginner-scripting) (Tempo estimado de leitura: 35 minutos)
-- **Vídeo:** "Getting Started with Unity" (YouTube, 20 min) - [https://www.youtube.com/watch?v=IlKaB1etrik](https://www.youtube.com/watch?v=IlKaB1etrik)
+- **Vídeo:** "How to make a Video Game in Unity - BASICS (E01)" (YouTube, 11 min 25 segundos) - [https://www.youtube.com/watch?v=IlKaB1etrik](https://www.youtube.com/watch?v=IlKaB1etrik)
 
 **Quarta-feira: Unreal Engine para Desenvolvimento de Experiências Imersivas**
 > Objetivo: Apresentar a plataforma Unreal Engine e seus recursos básicos, capacitando os estudantes a criar cenas imersivas.
@@ -149,7 +149,7 @@
 **Terça-feira: Scripting em Unity para RV**
 > Objetivo: Ensinar os fundamentos do scripting em Unity utilizando C#, proporcionando aos estudantes as habilidades básicas para criar interações em RV.
 - **Leitura:** "Scripting in Unity: Getting Started" (Unity Documentation) - [https://learn.unity.com/project/beginner-scripting](https://learn.unity.com/project/beginner-scripting) (Tempo estimado de leitura: 35 minutos)
-- **Vídeo:** "C# Scripting in Unity for Beginners" (YouTube, 20 min) - [https://www.youtube.com/watch?v=IlKaB1etrik](https://www.youtube.com/watch?v=IlKaB1etrik)
+- **Vídeo:** 
 
 **Quarta-feira: Scripting em Unreal Engine para RV**
 > Objetivo: Introduzir o uso do Blueprints no Unreal Engine para criar scripts visuais, permitindo aos estudantes desenvolver interações em RV sem a necessidade de codificação extensiva.
