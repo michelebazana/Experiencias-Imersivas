@@ -1,6 +1,23 @@
 # Módulo 12a - Balanço Técnico
 
-## Semana 1: 
+## Matemática e Física Aplicadas
+
+**Aula 01:**
+> Objetivo:
+
+**Aula 02:**
+> Objetivo:
+
+**Aula 03:**
+> Objetivo:
+
+**Aula 04:**
+> Objetivo:
+
+**Sexta-feira:**
+> Objetivo: Verificação de Aprendizado I
+
+## Sistemas de controle
 
 **Segunda-feira:**
 > Objetivo:
@@ -15,26 +32,9 @@
 > Objetivo:
 
 **Sexta-feira:**
-> Objetivo:
+> Objetivo: Verificação de Aprendizado II
 
-## Semana 2: 
-
-**Segunda-feira:**
-> Objetivo:
-
-**Terça-feira:**
-> Objetivo:
-
-**Quarta-feira:**
-> Objetivo:
-
-**Quinta-feira:**
-> Objetivo:
-
-**Sexta-feira:**
-> Objetivo:
-
-## Semana 3: 
+## Automatos e compiladores
 
 **Segunda-feira:**
 > Objetivo:
@@ -49,26 +49,9 @@
 > Objetivo:
 
 **Sexta-feira:**
-> Objetivo:
+> Objetivo: Verificação de Aprendizado III
 
-## Semana 4: 
-
-**Segunda-feira:**
-> Objetivo:
-
-**Terça-feira:**
-> Objetivo:
-
-**Quarta-feira:**
-> Objetivo:
-
-**Quinta-feira:**
-> Objetivo:
-
-**Sexta-feira:**
-> Objetivo:
-
-## Semana 5: 
+## Eletrônica e circuitos
 
 **Segunda-feira:**
 > Objetivo:
@@ -83,130 +66,146 @@
 > Objetivo:
 
 **Sexta-feira:**
+> Objetivo: Verificação de Aprendizado IV
+
+## Estruturas de dados e algoritmos
+
+**Segunda-feira:**
 > Objetivo:
+
+**Terça-feira:**
+> Objetivo:
+
+**Quarta-feira:**
+> Objetivo:
+
+**Quinta-feira:**
+> Objetivo:
+
+**Sexta-feira:**
+> Objetivo: Verificação de Aprendizado V
 
 # Módulo 12b - Experiências Imersivas
 
-## Semana 1: Introdução às Experiências Imersivas
+## Semana 1: Introdução às Experiências Imersivas - Web Realidade Aumentada
 
-**Segunda-feira: Conceitos e Histórico das Experiências Imersivas**
-> Objetivo: Introduzir aos estudantes os conceitos fundamentais e ao histórico das tecnologias imersivas, fornecendo uma visão geral de sua evolução e importância.
-- **Leitura:** "History Of Virtual Reality" - [https://www.vrs.org.uk/virtual-reality/history.html](https://www.vrs.org.uk/virtual-reality/history.html) (Tempo estimado de leitura: 30 minutos)
-- **Vídeo:** 
+**Autoestudos da Semana:**
 
-**Terça-feira: Tipos de Experiências Imersivas**
-> Objetivo: Diferenciar entre realidade virtual (RV) e realidade aumentada (RA), destacando suas características e aplicações.
-- **Leitura:** 
-- **Vídeo:** 
+- **Leitura:** [History Of Virtual Reality](https://www.vrs.org.uk/virtual-reality/history.html) (Tempo estimado de leitura: 30 minutos)
+- **Leitura:** [Capítulo 1- Realidade Virtual - Livro: Introdução a Realidade Virtual e Aumentada](https://books-sol.sbc.org.br/index.php/sbc/catalog/book/66) (Tempo estimado de leitura: 30 minutos)
+- **Vídeo:** [What are Virtual and Augmented Realities?](https://www.youtube.com/watch?v=f9MwaH6oGEY) (Tempo estimado: 10 minutos)
+- **Video:**  [Playlist do PlayCanva para desenvolvimento de aplicações](https://www.youtube.com/watch?v=fXc-JjH2nNo&list=PLGmYIROty-5ZX-a88X8ztUeYSPeuBj7rG) (Tempo estimado: 150 min)
+- **Exemplos:**  [Exemplos PlayCanva](https://playcanvas.github.io/#/misc/hello-world) (Tempo estimado: 60 min)
+- **Vídeo:** [Aframe Webvr - VR Development](https://www.youtube.com/watch?v=-Q_FIByQUAI&list=PLP3KjR1TMw7ekqC4o5gy0rR4odw7Jga84) (Tempo estimado: 120 min)
 
-**Quarta-feira: Aplicações das Experiências Imersivas**
-> Objetivo: Explorar as diversas aplicações de RV e RA em diferentes indústrias, ilustrando seu impacto e potencial.
-- **Leitura:** 
-- **Vídeo:** 
+**Segunda-feira: Conceitos e Histórico das Experiências Imersivas. Diferenciar entre realidade virtual (RV) e realidade aumentada (RA), destacando suas características e aplicações.**
+> Objetivo: Introduzir aos estudantes os conceitos fundamentais e o histórico das tecnologias imersivas, fornecendo uma visão geral de sua evolução e importância.
 
-**Quinta-feira: Desafios e Futuro das Experiências Imersivas**
-> Objetivo: Discutir os desafios atuais e futuros das tecnologias imersivas, identificando oportunidades de desenvolvimento e inovação.
-- **Leitura:** 
-- **Vídeo:** 
+**Terça-feira: Realidade Aumentada na Web. Ferramentas de desenvolvimento.**
+> Objetivo: Apresentar as ferramentas de desenvolvimento Web e como criar experiências de Realidade Aumentada.
 
-**Sexta-feira: Encontro com o Especialista**
+**Quarta-feira: Exploração de Realidade Aumentada na Web**
+> Objetivo: Exploração das ferramentas de desenvolvimento apresentadas.
+
+**Quinta-feira: Desenvolvimento de aplicações de Realidade Aumentada na Web**
+> Objetivo: Desenvolvimento de aplicação de Realidade Aumentada na Web.
+
+**Sexta-feira: Apresentação dos Resultados da Exploração de Realidade Aumentada na Web**
 > Objetivo: Discutir os conceitos abordados durante a semana e apresentação de atividade.
-- **Atividade:** Criar um esboço de uma aplicação imersiva (RV ou RA) para uma área específica (educação, saúde, entretenimento).
+- **Atividade:** Criar um esboço de uma aplicação imersiva para Web (RV ou RA) para uma área específica (educação, saúde, entretenimento).
 
-## Semana 2: Introdução às Ferramentas de Desenvolvimento
+## Semana 2: Programação e Desenvolvimento para RV - MetaHuman Unreal Engine 
 
-**Segunda-feira: Overview das Ferramentas de Desenvolvimento para Experiências Imersivas**
-> Objetivo: Proporcionar uma visão geral das principais ferramentas de desenvolvimento utilizadas em RV e RA, destacando suas funcionalidades e usos.
-- **Leitura:** 
-- **Vídeo:** 
+**Autoestudos da Semana:**
+- **Leitura:** "Unreal Engine Quick Start Guide" (Unreal Engine Documentation) - [https://docs.unrealengine.com/en-US/Basics/QuickStart/index.html](https://docs.unrealengine.com/en-US/Basics/QuickStart/index.html) (Tempo estimado de leitura: 35 minutos)
+- **Vídeo:**[Como CRIAR METAHUMANS pro UNREAL ENGINE | Personagens ultra realistas e fáceis de criar](https://www.youtube.com/watch?v=3PclUdlFsMU)
+- **Vídeo:**[Audio2Face to MetaHuman | How to Animate MetaHuman using Audio2Face Live Link | Unreal Engine 5.2](https://www.youtube.com/watch?v=HEFIvFnUfpw)
+- **Vídeo:**[Live Link Face Animation for Metahuman in Unreal Engine 5](https://www.youtube.com/watch?v=rFKXFdtCrfA)
+- **Leitura:**[ChatGPT OpenAI API - Unreal Engine Integration](https://defconnet.work/en/chatgpt-openai-api-unreal-engine-integration/)
+- **Leitura:**[What Is the Uncanny Valley?](https://spectrum.ieee.org/what-is-the-uncanny-valley)
+- **Video**: [Meta Codec Avatar of Mark Zuckerberg & Lex Fridman | Photo Real Avatars for the Metaverse & VR](https://www.youtube.com/watch?v=rbVraOvEkgo)
+- **Video**: [Full Body Codec Avatar Reclothing Meta Connect 2022](https://www.youtube.com/watch?v=r7raHNfPc6A)
+- [MetaHuman Creator](https://www.unrealengine.com/en-US/metahuman) 
+- [Bark](https://github.com/suno-ai/bark)
+- [Audio2Face NVIDIA](https://www.nvidia.com/pt-br/ai-data-science/audio2face/)
 
-**Terça-feira: Unity para Desenvolvimento de Experiências Imersivas**
-> Objetivo: Introduzir a plataforma Unity e seus recursos básicos, permitindo que os estudantes comecem a desenvolver experiências imersivas.
+**Segunda-feira: Conceitos e histórico do desenvolvimento de Humanos Virtuais em RV**
+> Objetivo: Introduzir aos estudantes os conceitos fundamentais e o histórico das tecnologias de criação de humanos virtuais. Discutir aspectos como "Vale da estranheza" (Uncanny Valley) e ética no uso de dados de imagem e voz. Apresentar estado da arte de humanos virtuais como Codec Avatars (Meta) e aplicações disponíveis como MetaHuman Creator (Unreal).
+
+
+**Terça-feira: MetaHuman Creator para Desenvolvimento de Experiências Imersivas com Humanos Virtuais**
+> Objetivo: Apresentar a plataforma  MetaHuman Creator da Unreal e seus recursos básicos, capacitando os estudantes a criar cenas imersivas. Discutir as possibilidades de animação com Audio2Face(NVIDIA) e integração com IA Generativa de Texto/Áudio.
+
+**Quarta-feira: Exploração de Realidade Virtual com MetaHuman Creator(Unreal)**
+> Objetivo: Exploração das ferramentas de desenvolvimento apresentadas.
+
+**Quinta-feira: Desenvolvimento de aplicações de Realidade Virtual com MetaHuman Creator(Unreal)**
+> Objetivo: Desenvolvimento de Humano Virtual com MetaHuman Creator(Unreal).
+
+**Sexta-feira: Apresentação dos Resultados da Exploração de Realidade Virtual com MetaHuman Creator(Unreal)**
+> Objetivo: Discutir os conceitos abordados durante a semana e apresentação de atividade.
+- **Atividade:** Criar um Humano Virtual com MetaHuman Creator(Unreal) para aplicação em uma área específica (educação, saúde, entretenimento). 
+
+
+## Semana 3: Programação e Desenvolvimento para RV - Unity VR
+
+**Autoestudos da Semana:**
 - **Leitura:** "Unity for Beginners" (Unity Official Documentation) - [https://learn.unity.com/project/beginner-scripting](https://learn.unity.com/project/beginner-scripting) (Tempo estimado de leitura: 35 minutos)
 - **Vídeo:** "How to make a Video Game in Unity - BASICS (E01)" (YouTube, 11 min 25 segundos) - [https://www.youtube.com/watch?v=IlKaB1etrik](https://www.youtube.com/watch?v=IlKaB1etrik)
-
-**Quarta-feira: Unreal Engine para Desenvolvimento de Experiências Imersivas**
-> Objetivo: Apresentar a plataforma Unreal Engine e seus recursos básicos, capacitando os estudantes a criar cenas imersivas.
-- **Leitura:** "Unreal Engine Quick Start Guide" (Unreal Engine Documentation) - [https://docs.unrealengine.com/en-US/Basics/QuickStart/index.html](https://docs.unrealengine.com/en-US/Basics/QuickStart/index.html) (Tempo estimado de leitura: 35 minutos)
-- **Vídeo:** 
-
-**Quinta-feira: Comparação de Ferramentas de Desenvolvimento**
-> Objetivo: Comparar Unity e Unreal Engine, destacando suas vantagens e desvantagens para ajudar os estudantes a escolherem a ferramenta mais adequada para seus projetos.
-- **Leitura:** 
-- **Vídeo:** 
-
-**Sexta-feira: Encontro com o Especialista**
-> Objetivo: Ajudar os estudantes a entenderem as diferenças entre Unity e Unreal e escolher uma ferramenta para a atividade.
-- **Atividade:** Criar uma cena básica usando Unity ou Unreal Engine.
-
-## Semana 3: Programação e Desenvolvimento para RV
+- **Leitura:** "Scripting in Unity: Getting Started" (Unity Documentation) - [https://learn.unity.com/project/beginner-scripting](https://learn.unity.com/project/beginner-scripting) (Tempo estimado de leitura: 35 minutos)
+- **Leitura:** "Blueprints Visual Scripting" (Unreal Engine Documentation) - [https://docs.unrealengine.com/en-US/Engine/Blueprints/index.html](https://docs.unrealengine.com/en-US/Engine/Blueprints/index.html) (Tempo estimado de leitura: 30 minutos)
+- **Leitura:** "Building AR Applications with Unity" (Unity Documentation) - [https://learn.unity.com/project/introduction-to-augmented-reality-and-ar-foundation](https://learn.unity.com/project/introduction-to-augmented-reality-and-ar-foundation) (Tempo estimado de leitura: 35 minutos)
 
 **Segunda-feira: Fundamentos da Programação para RV**
-> Objetivo: Introduzir os conceitos básicos de programação aplicados ao desenvolvimento de experiências em realidade virtual.
-- **Leitura:** 
-- **Vídeo:** 
+> Objetivo: Introduzir os conceitos básicos de programação aplicados ao desenvolvimento de experiências em realidade virtual, utilizando a Engine Unity.
 
 **Terça-feira: Scripting em Unity para RV**
-> Objetivo: Ensinar os fundamentos do scripting em Unity utilizando C#, proporcionando aos estudantes as habilidades básicas para criar interações em RV.
-- **Leitura:** "Scripting in Unity: Getting Started" (Unity Documentation) - [https://learn.unity.com/project/beginner-scripting](https://learn.unity.com/project/beginner-scripting) (Tempo estimado de leitura: 35 minutos)
-- **Vídeo:** 
+> Objetivo: Ensinar os fundamentos do scripting em Unity para RV, proporcionando aos estudantes as habilidades básicas para criar interações em cenas.
 
-**Quarta-feira: Scripting em Unreal Engine para RV**
-> Objetivo: Introduzir o uso do Blueprints no Unreal Engine para criar scripts visuais, permitindo aos estudantes desenvolver interações em RV sem a necessidade de codificação extensiva.
-- **Leitura:** "Blueprints Visual Scripting" (Unreal Engine Documentation) - [https://docs.unrealengine.com/en-US/Engine/Blueprints/index.html](https://docs.unrealengine.com/en-US/Engine/Blueprints/index.html) (Tempo estimado de leitura: 30 minutos)
-- **Vídeo:** 
+**Quarta-feira: Exploração de Realidade Virtual com Unity VR**
+> Objetivo: Exploração das ferramentas de desenvolvimento apresentadas.
 
-**Quinta-feira: Boas Práticas de Desenvolvimento para RV**
-> Objetivo: Apresentar as melhores práticas de desenvolvimento para RV, garantindo a criação de experiências imersivas de alta qualidade.
-- **Leitura:** 
-- **Vídeo:** 
+**Quinta-feira: Desenvolvimento de aplicações de Realidade Virtual com Unity VR**
+> Objetivo: Desenvolvimento de experiência virtual com o Unity VR.
 
-**Sexta-feira: Encontro com o Especialista**
-> Objetivo: Auxiliar os estudantes a implementarem scripts básicos em seus projetos e a entenderem as boas práticas.
-- **Atividade:** Implementar um script simples que interaja com o ambiente em RV.
+**Sexta-feira: Apresentação dos Resultados da Exploração de Realidade Virtual com Unity VR**
+> Objetivo: Discutir os conceitos abordados durante a semana e apresentação de atividade.
+- **Atividade:** Criar uma cena de realidade virtual com o Unity VR para aplicação em uma área específica (educação, saúde, entretenimento). 
 
-## Semana 4: Realidade Aumentada e Aplicações Práticas
+## Semana 4: Proposta de Experimento de Experiencia Imersiva
 
-**Segunda-feira: Fundamentos da Realidade Aumentada**
-> Objetivo: Introduzir os conceitos básicos e a teoria por trás da realidade aumentada, diferenciando-a de outras tecnologias imersivas.
-- **Leitura:** 
-- **Vídeo:** 
+**Autoestudos da Semana:**
+- **Leitura:**
 
-**Terça-feira: Ferramentas para Desenvolvimento de AR**
+**Segunda-feira: Definição de escopo e impacto ético de aplicação em RV**
+> Objetivo: Apresentar a importância da definição do escopo de um projeto e as dimensões de impacto ético dessa definição. Apresentação inicial de propostas de experimentos de experiência imersiva.
+
+**Terça-feira: Criação da proposta de experimento**
 > Objetivo: Apresentar as principais ferramentas para desenvolvimento de AR, destacando suas capacidades e diferenças.
-- **Leitura:** "Getting Started with ARKit and ARCore" (Official Documentation) - [https://developers.google.com/ar/develop](https://developers.google.com/ar/develop) (Tempo estimado de leitura: 35 minutos)
-- **Vídeo:** 
 
-**Quarta-feira: Criação de Aplicações AR com Unity**
-> Objetivo: Ensinar como criar uma aplicação básica de AR utilizando Unity, capacitando os estudantes a desenvolverem suas próprias experiências aumentadas.
-- **Leitura:** "Building AR Applications with Unity" (Unity Documentation) - [https://learn.unity.com/project/introduction-to-augmented-reality-and-ar-foundation](https://learn.unity.com/project/introduction-to-augmented-reality-and-ar-foundation) (Tempo estimado de leitura: 35 minutos)
-- **Vídeo:** 
+**Quarta-feira: Desenvolvimento do experimento**
+> Objetivo: Desenvolvimento do experimento proposto.
 
-**Quinta-feira: Aplicações Práticas de AR**
-> Objetivo: Explorar casos de uso reais de AR em diversas áreas, ilustrando o impacto prático e os benefícios dessa tecnologia. 
-- **Leitura:** 
-- **Vídeo:** 
+**Quinta-feira: Desenvolvimento do experimento**
+> Objetivo: Desenvolvimento do experimento proposto.
 
-**Sexta-feira: Encontro com o Especialista**
+**Sexta-feira: Checkpoint do desenvolvimento**
 > Objetivo: Ajudar os estudantes a entenderem como desenvolver e aplicar AR em projetos reais.
 - **Atividade:** Criar uma aplicação AR simples para um caso de uso específico (educação, marketing, etc.).
 
-## Semana 5: Desenvolvimento de um Projeto Prático
+## Semana 5: Desenvolvimento de Experimento de Experiencia Imersiva
+
+**Autoestudos da Semana:**
+- **Leitura:**
 
 **Segunda-feira: Definindo o Escopo do Projeto**
 > Objetivo: Ensinar os estudantes a definirem claramente o escopo de seus projetos, estabelecendo objetivos e limites claros.
-- **Leitura:** 
-- **Vídeo:** 
 
 **Terça-feira: Planejamento e Design do Projeto**
 > Objetivo: Introduzir técnicas de planejamento e design thinking, ajudando os estudantes a organizarem e estruturarem seus projetos.
-- **Leitura:** 
-- **Vídeo:** 
 
 **Quarta-feira: Desenvolvimento e Implementação**
 > Objetivo: Orientar os estudantes no desenvolvimento e implementação de seus projetos, aplicando as melhores práticas aprendidas.
-- **Leitura:** 
-- **Vídeo:** 
 
 **Quinta-feira: Testes e Ajustes Finais**
 > Objetivo: Ensinar os estudantes a realizarem testes e ajustes finais em seus projetos, garantindo qualidade e funcionalidade.
