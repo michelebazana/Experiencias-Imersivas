@@ -175,13 +175,15 @@
 ## Semana 4: Proposta de Experimento de Experiencia Imersiva
 
 **Autoestudos da Semana:**
-- **Leitura:**
+- **Leitura:** [The Ethics of Realism in Virtual and Augmented Reality](https://www.frontiersin.org/journals/virtual-reality/articles/10.3389/frvir.2020.00001/full?trk=public_post_comment-text)
+- **Leitura:** [Ethics in Virtual Reality](https://digitalreality.ieee.org/publications/ethics-in-vr)
 
 **Segunda-feira: Definição de escopo e impacto ético de aplicação em RV**
 > Objetivo: Apresentar a importância da definição do escopo de um projeto e as dimensões de impacto ético dessa definição. Apresentação inicial de propostas de experimentos de experiência imersiva.
 
 **Terça-feira: Criação da proposta de experimento**
 > Objetivo: Apresentar as principais ferramentas para desenvolvimento de AR, destacando suas capacidades e diferenças.
+- **Atividade:** Validação da proposta de experimento para um caso de uso específico (educação, marketing, etc.).
 
 **Quarta-feira: Desenvolvimento do experimento**
 > Objetivo: Desenvolvimento do experimento proposto.
@@ -190,28 +192,25 @@
 > Objetivo: Desenvolvimento do experimento proposto.
 
 **Sexta-feira: Checkpoint do desenvolvimento**
-> Objetivo: Ajudar os estudantes a entenderem como desenvolver e aplicar AR em projetos reais.
-- **Atividade:** Criar uma aplicação AR simples para um caso de uso específico (educação, marketing, etc.).
+> Objetivo: Validar com os estudantes o desenvolvimento do experimento.
 
 ## Semana 5: Desenvolvimento de Experimento de Experiencia Imersiva
 
 **Autoestudos da Semana:**
-- **Leitura:**
+- **Leitura:** [ATON: An Open-Source Framework for Creating Immersive, Collaborative and Liquid Web-Apps for Cultural Heritage](https://www.mdpi.com/2076-3417/11/22/11062)
 
-**Segunda-feira: Definindo o Escopo do Projeto**
-> Objetivo: Ensinar os estudantes a definirem claramente o escopo de seus projetos, estabelecendo objetivos e limites claros.
+**Segunda-feira: Desenvolvimento do experimento**
+> Objetivo: Desenvolvimento do experimento proposto.
 
-**Terça-feira: Planejamento e Design do Projeto**
-> Objetivo: Introduzir técnicas de planejamento e design thinking, ajudando os estudantes a organizarem e estruturarem seus projetos.
+**Terça-feira: Desenvolvimento do experimento**
+> Objetivo: Desenvolvimento do experimento proposto.
 
-**Quarta-feira: Desenvolvimento e Implementação**
-> Objetivo: Orientar os estudantes no desenvolvimento e implementação de seus projetos, aplicando as melhores práticas aprendidas.
+**Quarta-feira: Desenvolvimento do experimento**
+> Objetivo: Desenvolvimento do experimento proposto.
 
-**Quinta-feira: Testes e Ajustes Finais**
-> Objetivo: Ensinar os estudantes a realizarem testes e ajustes finais em seus projetos, garantindo qualidade e funcionalidade.
-- **Leitura:** 
-- **Vídeo:** 
+**Quinta-feira: Testes e Ajustes Finais do Experimento**
+> Objetivo: Validar o experimento com testes e ajustes finais.
 
-**Sexta-feira: Encontro com o Especialista**
+**Sexta-feira: Apresentação do Experimento Desenvolvido**
 > Objetivo: Avaliar o progresso dos projetos e oferecer feedback final. 
-- **Atividade:** Apresentação dos projetos práticos desenvolvidos ao longo da semana.
+- **Atividade:** Apresentação dos projetos práticos desenvolvidos ao longo do módulo.
