@@ -1,89 +1,89 @@
 # Módulo 12a - Balanço Técnico
 
-## Matemática e Física Aplicadas
+## Estruturas de dados e algoritmos
 
-**Aula 01:**
+**Estruturas de dados e algoritmos I - Introdução a Linguagem C**
 > Objetivo:
 
-**Aula 02:**
+**Estruturas de dados e algoritmos II - Listas, Filas e Pilhas**
 > Objetivo:
 
-**Aula 03:**
+**Estruturas de dados e algoritmos III - Grafos**
 > Objetivo:
 
-**Aula 04:**
+**Estruturas de dados e algoritmos IV - Arvore**
 > Objetivo:
 
-**Sexta-feira:**
-> Objetivo: Verificação de Aprendizado I
+**Estruturas de dados e algoritmos V - HashMap**
+> Objetivo:
+
+## Aplicações de Algebra Linear para DeepLearning
+
+
+**Algebra Linear I - Escalares, Vetores, Matrizes, Operações com os Elementos**
+> Objetivo:
+
+**Algebra Linear II - Decomposição e Transformação de Bases**
+> Objetivo:
+
+**Algebra Linear III - Autovalor e Autovetor**
+> Objetivo:
+
+**Algebra Linear IV - Exercícios de Fixação**
+> Objetivo:
+
+**Algebra Linear V - Aplicações em Deep Learning**
+> Objetivo:
+
 
 ## Sistemas de controle
 
-**Segunda-feira:**
+**Transformada de Fourier**
 > Objetivo:
 
-**Terça-feira:**
+**Fenômenos de Transportes**
 > Objetivo:
 
-**Quarta-feira:**
+**Modelagem de sistemas dinâmicos**
 > Objetivo:
 
-**Quinta-feira:**
+**Identificação de sistemas dinâmicos**
 > Objetivo:
 
-**Sexta-feira:**
-> Objetivo: Verificação de Aprendizado II
-
-## Automatos e compiladores
-
-**Segunda-feira:**
+**Projeto de controladores**
 > Objetivo:
 
-**Terça-feira:**
+**Critérios de desempenho e estabilidade**
 > Objetivo:
 
-**Quarta-feira:**
+## Automatos
+
+**Automatos I - Máquina de Touring**
 > Objetivo:
 
-**Quinta-feira:**
+**Automatos II - Autômato de Pilha**
 > Objetivo:
 
-**Sexta-feira:**
-> Objetivo: Verificação de Aprendizado III
-
-## Eletrônica e circuitos
-
-**Segunda-feira:**
+**Automatos III - Máquina de Estados Finito**
 > Objetivo:
 
-**Terça-feira:**
+**Automatos IV - Lógica Combinacional**
 > Objetivo:
 
-**Quarta-feira:**
+## Compiladores
+
+**Compiladores I - Análise Léxica**
 > Objetivo:
 
-**Quinta-feira:**
+**Compiladores II - Análise Sintática**
 > Objetivo:
 
-**Sexta-feira:**
-> Objetivo: Verificação de Aprendizado IV
-
-## Estruturas de dados e algoritmos
-
-**Segunda-feira:**
+**Compiladores III - Análise Semantica**
 > Objetivo:
 
-**Terça-feira:**
+**Compiladores IV - Gerador de Código**
 > Objetivo:
 
-**Quarta-feira:**
-> Objetivo:
-
-**Quinta-feira:**
-> Objetivo:
-
-**Sexta-feira:**
-> Objetivo: Verificação de Aprendizado V
 
 # Módulo 12b - Experiências Imersivas
 
