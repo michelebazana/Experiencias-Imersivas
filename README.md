@@ -2,20 +2,20 @@
 
 ## Estruturas de dados e algoritmos
 
-**Estruturas de dados e algoritmos I - Introdução a Linguagem C**
-> Objetivo:
+**Estruturas de dados e algoritmos I - Revisão - Linguagem C**
+> Objetivo: Reapresentação dos conceitos básicos de estruturas de dados e algoritmos, focando na implementação em linguagem C.
 
 **Estruturas de dados e algoritmos II - Listas, Filas e Pilhas**
-> Objetivo:
+> Objetivo: Estudar e implementar listas, filas e pilhas, entendendo suas operações básicas e aplicações.
 
 **Estruturas de dados e algoritmos III - Grafos**
-> Objetivo:
+> Objetivo: Compreender a teoria dos grafos, incluindo representações, algoritmos de busca e aplicações práticas.
 
-**Estruturas de dados e algoritmos IV - Arvore**
-> Objetivo:
+**Estruturas de dados e algoritmos IV - Árvores**
+> Objetivo: Explorar estruturas de dados baseadas em árvores, abordando tipos de árvores, operações e algoritmos relacionados.
 
 **Estruturas de dados e algoritmos V - HashMap**
-> Objetivo:
+> Objetivo: Estudar o conceito de HashMap, entendendo a função de hash, tratamento de colisões e eficiência.
 
 ## Aplicações de Algebra Linear para DeepLearning
 
