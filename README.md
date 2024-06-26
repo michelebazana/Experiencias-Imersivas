@@ -19,21 +19,20 @@
 
 ## Aplicações de Algebra Linear para DeepLearning
 
-
 **Algebra Linear I - Escalares, Vetores, Matrizes, Operações com os Elementos**
-> Objetivo:
+> Objetivo: Introduzir os conceitos básicos de escalares, vetores e matrizes, e ensinar operações fundamentais entre esses elementos.
 
 **Algebra Linear II - Decomposição e Transformação de Bases**
-> Objetivo:
+> Objetivo: Estudar a decomposição de matrizes e a transformação de bases, compreendendo suas aplicações e importância.
 
 **Algebra Linear III - Autovalor e Autovetor**
-> Objetivo:
+> Objetivo: Entender o conceito de autovalores e autovetores, e sua relevância em diversos contextos matemáticos e práticos.
 
 **Algebra Linear IV - Exercícios de Fixação**
-> Objetivo:
+> Objetivo: Praticar e consolidar os conhecimentos adquiridos através de exercícios e problemas aplicados.
 
 **Algebra Linear V - Aplicações em Deep Learning**
-> Objetivo:
+> Objetivo: Demonstrar como os conceitos de álgebra linear são aplicados no campo de deep learning, destacando casos práticos e algoritmos específicos.
 
 
 ## Sistemas de controle
