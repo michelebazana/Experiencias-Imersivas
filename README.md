@@ -34,30 +34,26 @@
 **Algebra Linear V - Aplicações em Deep Learning**
 > Objetivo: Demonstrar como os conceitos de álgebra linear são aplicados no campo de deep learning, destacando casos práticos e algoritmos específicos.
 
+## Física, processamento de sinais e controle
 
-## Sistemas de controle
-
-**Transformada de Fourier**
-> Objetivo:
+**Transformada de Fourier para processamento de sinais**
+> Objetivo: Ensinar a teoria e a aplicação da Transformada de Fourier no processamento de sinais, incluindo análise de frequências e filtragem.
 
 **Fenômenos de Transportes**
-> Objetivo:
+> Objetivo: Explorar os princípios dos fenômenos de transporte, incluindo transferência de massa, calor e momentum, e suas aplicações práticas.
 
-**Modelagem de sistemas dinâmicos**
-> Objetivo:
+**Modelagem e identificação de sistemas dinâmicos**
+> Objetivo: Apresentar técnicas para modelar e identificar sistemas dinâmicos, focando em métodos matemáticos e experimentais.
 
-**Identificação de sistemas dinâmicos**
-> Objetivo:
+**Projeto de controladores e critérios de desempenho e estabilidade**
+> Objetivo: Estudar o projeto de controladores, abordando critérios de desempenho e estabilidade para sistemas de controle.
 
-**Projeto de controladores**
-> Objetivo:
-
-**Critérios de desempenho e estabilidade**
-> Objetivo:
+**Laboratório de implementação de controle**
+> Objetivo: Proporcionar experiência prática na implementação de sistemas de controle, identificando um sistema e aplicando na prática o seu controlador
 
 ## Automatos
 
-**Automatos I - Máquina de Touring**
+**Automatos I - Máquina de Turing**
 > Objetivo:
 
 **Automatos II - Autômato de Pilha**
