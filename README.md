@@ -51,33 +51,33 @@
 **Laboratório de implementação de controle**
 > Objetivo: Proporcionar experiência prática na implementação de sistemas de controle, identificando um sistema e aplicando na prática o seu controlador
 
-## Automatos
+## Autômatos
 
 **Automatos I - Máquina de Turing**
-> Objetivo:
+> Objetivo: Introduzir o conceito de Máquina de Turing, explorando sua estrutura, funcionamento e importância teórica na computação.
 
 **Automatos II - Autômato de Pilha**
-> Objetivo:
+> Objetivo: Estudar os autômatos de pilha, compreendendo sua definição, operação e aplicação na análise de linguagens context-free.
 
 **Automatos III - Máquina de Estados Finito**
-> Objetivo:
+> Objetivo: Apresentar máquinas de estados finitos, abordando sua representação, tipos e usos na modelagem de sistemas.
 
 **Automatos IV - Lógica Combinacional**
-> Objetivo:
+> Objetivo: Explorar a lógica combinacional, incluindo o projeto e a análise de circuitos lógicos combinacionais.
 
 ## Compiladores
 
 **Compiladores I - Análise Léxica**
-> Objetivo:
+> Objetivo: Ensinar os fundamentos da análise léxica, incluindo a criação de analisadores léxicos e o reconhecimento de tokens.
 
 **Compiladores II - Análise Sintática**
-> Objetivo:
+> Objetivo: Abordar a análise sintática, focando em técnicas de parsing e construção de árvores sintáticas.
 
-**Compiladores III - Análise Semantica**
-> Objetivo:
+**Compiladores III - Análise Semântica**
+> Objetivo: Explorar a análise semântica, incluindo verificação de tipos e a definição de regras semânticas.
 
 **Compiladores IV - Gerador de Código**
-> Objetivo:
+> Objetivo: Ensinar os princípios de geração de código, abordando técnicas de tradução e otimização de código intermediário para código de máquina.
 
 
 # Módulo 12b - Experiências Imersivas
