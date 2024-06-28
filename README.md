@@ -1,4 +1,4 @@
-# Módulo 12a - Balanço Técnico
+# Módulo 12a - Balanço Técnico (Prévia)
 
 ## Estruturas de dados e algoritmos
 
